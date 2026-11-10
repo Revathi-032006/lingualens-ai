@@ -12,7 +12,7 @@ from gtts import gTTS
 from PIL import Image
 from streamlit_mic_recorder import mic_recorder
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.8-flash"
 USERS_FILE = "users.csv"
 RESULTS_FILE = "results.csv"
 TEACHER_CODE = "TEACH123"  # change this to your own secret code
